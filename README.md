@@ -36,3 +36,15 @@ tsc --init
 ```bash
 npm install express mongoose
 ```
+
+## Install TypeScript type definitions for Express (useful for development):
+
+```bash
+npm install --save-dev @types/express
+```
+
+## Install `ts-node-dev` to run your TypeScript app with automatic restarts on file changes:
+
+```bash
+npm install --save-dev ts-node-dev
+```
